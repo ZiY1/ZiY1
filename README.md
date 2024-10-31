@@ -8,13 +8,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **NexEvent**
+ 🔭 I’m currently working on **NexEvent**.
  
- 🌱 I’m currently learning **Go, GCP, Machine Learning**
+ 🌱 I’m currently learning **Go, GCP, Machine Learning**.
  
  👨🏽‍💻 Former Software Engineer Intern at Cantor Fitzgerald.
  
- 🤔 I’m looking for help with finding full-time software engineer 2025 early career opportunities, I graduated in May 2025
+ 🤔 I’m looking for help with finding full-time software engineer 2025 early career opportunities, I graduated in May 2025.
 
 </div>
  
